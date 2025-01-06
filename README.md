@@ -20,21 +20,32 @@ ________________________________________
 Introduction
 
 The current recruitment process is often inefficient, time-consuming, and lacks transparency, resulting in poor job matching and delayed communication between job seekers and recruiters. There is a need for an integrated solution that provides personalized recommendations, online assessments, and real-time updates to enhance the efficiency and user experience of the recruitment process.
-           The objective of this project is to design and develop a job portal that facilitates seamless interaction between job seekers, recruiters, and admins. The portal aims to enhance the recruitment process by providing features such as personalized job recommendations, online assessments, and application tracking, thereby improving efficiency and user experience for all stakeholders.
+                  The objective of this project is to design and develop a job portal that facilitates seamless interaction between job seekers, recruiters, and admins. The portal aims to enhance the recruitment process by providing features such as personalized job recommendations, online assessments, and application tracking, thereby improving efficiency and user experience for all stakeholders.
 
 ________________________________________
 Features
 1.Personalized Job Recommendation
+
 2.User-Friendly Dashboard
+
 3.Centralized Job Listings
+
 4.Document Management System
+
 5.Direct Application Upload
+
 6.Application Tracking System (ATS)
+
 7.Real-Time Job Notifications
+
 8.Application History and Progress Tracking
+
 9.Advanced Search and Filter
+
 10.OAuth Integration
+
 11.Data Security and Privacy
+
 12.Online Assessments
 ________________________________________
 Technologies Used
