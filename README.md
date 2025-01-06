@@ -24,6 +24,7 @@ The current recruitment process is often inefficient, time-consuming, and lacks 
 
 ________________________________________
 Features
+
 1.Personalized Job Recommendation
 
 2.User-Friendly Dashboard
@@ -51,18 +52,27 @@ ________________________________________
 Technologies Used
 
 SOFTWARE SYSTEM CONFIGURATION:
+
 •	Operating System		:  Windows 7/8/10
+
 •	Server side Script		:  Express js
+
 •	Programming Language	:  TypeScript
+
 •	IDE/Workbench		    :  VS Code
+
 •	Database			    :  Mongodb
+
 •	Clint Side              :  React js
 
-HARDWARE REQUIREMENTS:
-•	Processor            	 -    I3/Intel Processor
-•	RAM                      -    4GB (min)
-•	Hard Disk                -   160GB
 
+HARDWARE REQUIREMENTS:
+
+•	Processor            	 -    I3/Intel Processor
+
+•	RAM                      -    4GB (min)
+
+•	Hard Disk                -   160GB
 
 
 ________________________________________
@@ -87,6 +97,7 @@ o	Example:
 ________________________________________
 Model Workflow
 
+![image](https://github.com/user-attachments/assets/2360bf27-214b-44bd-b147-9fec6a9c2579)
 
 
 ________________________________________
